@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+
+
+.home-buttons {
+    display: flex;
+    text-align: center;
+}
+
+.button-el {
+    margin: 50px;
+}
+
+@media only screen and (min-width: 768){
+    .title {
+        font-size: 200px;
+    }
+}
